@@ -2,7 +2,7 @@
  {
     "update": "true",
     "image": "https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2017/06/github.png?width=1200&enable=upscale",
-    "version": "Features of this app",
+    "version": "V 1.1",
     "description": "send message without firebase\nsend message with image or without image\nZoom in with animation like telegram\nIdentify links such as: https://t.me/Explorer_browser",
     "link": "http://www.google.com",
     "txt": "UPDATE"
